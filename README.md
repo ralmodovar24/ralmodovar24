@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ralmodovar24, my real name is Ricardo Almodóvar
-- 👀 I’m interested in Computer Science & Astrophysics 
-- 🌱 I’m currently learning Vue.js & some Astrophysics basics
+- 👀 I am a bachelor student majoring in Computer Science & an avid fan of Astrophysics 
+- 🌱 My current stack is React, Redux, JavaScript, and HTML.
 - 💞️ I’m looking to collaborate on creative web dev projects.
 - 📫 How to reach me ralmodovardev@gmail.com
 
